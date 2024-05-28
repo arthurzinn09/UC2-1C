@@ -25,3 +25,6 @@ Atividade 4: TypeScript
 
 Atividade 5: Docs
 -[Emprego dos sonhos](https://docs.google.com/document/d/1iC1bf3MxepYodWFxdVvmHMNvaeefqgDOqkx0rw5k0GU/edit?usp=sharing)
+
+Atividade 5: Excel
+-[Gráfico de gant](https://docs.google.com/spreadsheets/d/18Thweyuc9fVT3xZkbEqYfIW2ajxJWD0737ATBQjTGLc/edit?usp=sharing)
